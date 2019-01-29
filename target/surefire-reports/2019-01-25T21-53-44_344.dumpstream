@@ -1,0 +1,4 @@
+# Created at 2019-01-25T21:53:45.964
+Boot Manifest-JAR contains absolute paths in classpath 'D:\ITAAutomation\Eclipse_WS\ActitimeAutomation\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
